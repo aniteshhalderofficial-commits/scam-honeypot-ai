@@ -1,4 +1,4 @@
-# AI Agentic Scam Honeypot 🕵️‍♂️
+# AI Agentic Scam Honeypot 
 
 An AI-powered **agentic honeypot system** designed to detect, engage, and extract intelligence from scam messages (SMS, email, chat).  
 The system simulates a real user, engages scammers in **multi-turn conversations**, and automatically extracts actionable scam indicators.
